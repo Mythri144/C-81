@@ -1,0 +1,18 @@
+
+h1
+{
+	color: aliceblue; 
+	font-size: 100px;
+}
+.body_background 
+{
+	background-image: url(https://images.pexels.com/photos/949587/pexels-photo-949587.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+	background-position: center;
+	background-size: cover;
+}
+
+#myCanvas
+{
+background-color: white;
+border-style: ridge;
+}
